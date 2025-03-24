@@ -91,9 +91,7 @@
 ```
 
 ## How to use 
-
 ```
 cd libft/
-
 make
 ```
