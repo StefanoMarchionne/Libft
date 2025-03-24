@@ -8,7 +8,7 @@
 	</p>
 </i>
 
-#### <i> ----[subject]----(en.subject.pdf)</i>
+#### <i> ---- [subject](en.subject.pdf) ----</i>
 
 
 ``` js
