@@ -1,4 +1,4 @@
-# Libft
+# libft
 
 <i>
 	<p>
